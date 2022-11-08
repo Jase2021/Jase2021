@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jase2021
 - 👀 I’m interested in Developing
 - 🌱 I’m currently learning Software Development
-- 📫 How to reach me --> jason.pretorius@ordercloud.com
+- 📫 How to reach me --> jason.pretorius91@hotmail.com
 
 <!---
 Jase2021/Jase2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
